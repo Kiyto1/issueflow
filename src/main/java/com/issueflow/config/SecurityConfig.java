@@ -1,4 +1,4 @@
-package com.issueflow.dto.comment.config;
+package com.issueflow.config;
 
 import com.issueflow.security.JwtAuthenticationFilter;
 
